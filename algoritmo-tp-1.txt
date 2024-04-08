@@ -1,0 +1,53 @@
+4. ¿Qué es un algoritmo?
+Un algoritmo es un conjunto finito de pasos o instrucciones bien definidos y ordenados que
+permiten resolver un problema o llevar a cabo una tarea específica. En otras palabras, un
+algoritmo es una secuencia lógica de operaciones que transforma una entrada en una salida
+deseada.
+
+5. Definir constante y variable.
+
+Constante: En programación, una constante es un valor que no cambia durante la ejecución del
+programa. Es un valor fijo y predefinido que se utiliza para representar datos específicos, como,
+por ejemplo, el valor de pi (π) en matemáticas (3.14159...). Las constantes se utilizan para
+hacer que el código sea más legible, comprensible y fácil de mantener.
+
+Variable: Una variable es un espacio de memoria con un nombre asociado que se utiliza para
+almacenar datos que pueden cambiar durante la ejecución del programa. Las variables pueden
+contener diferentes tipos de datos, como números, texto, valores booleanos, etc. El valor
+almacenado en una variable puede ser modificado y utilizado en diferentes partes del
+programa.
+
+
+
+6. ¿Qué es una estructura de control? Elegir tres y explicarlas.
+
+Una estructura de control en programación es un conjunto de instrucciones que permiten
+controlar el flujo de ejecución de un programa. Estas estructuras pueden decidir qué
+instrucciones ejecutar, cuántas veces ejecutarlas o bajo qué condiciones ejecutarlas. Aquí hay
+tres estructuras de control comunes:
+
+Estructura de control if: La estructura de control if permite ejecutar un bloque de código si una
+condición es verdadera. Si la condición es falsa, el bloque de código no se ejecuta. Es una forma
+de tomar decisiones en el programa basadas en el resultado de una evaluación de una
+condición.
+
+Estructura de control for: La estructura de control for se utiliza para iterar sobre una secuencia
+de valores conocida, como una lista o un rango de números. Permite ejecutar un bloque de
+código varias veces, una vez para cada elemento en la secuencia. Es útil cuando se sabe
+exactamente cuántas veces se debe repetir una tarea.
+
+Estructura de control while: La estructura de control while permite ejecutar un bloque de
+código repetidamente mientras una condición sea verdadera. Se evalúa la condición antes de
+cada iteración del bucle. Es útil cuando no se sabe cuántas veces se debe repetir una tarea,
+pero se sabe que debe repetirse hasta que se cumpla una condición específica.
+
+
+
+7. ¿Qué es una función?
+
+Una función es un bloque de código reutilizable que realiza una tarea específica. Las funciones
+permiten dividir un programa en piezas más pequeñas y manejables, lo que facilita la
+organización, la comprensión y la reutilización del código. Una función puede tomar cero o más
+parámetros como entrada, realizar ciertas operaciones y devolver un resultado como salida.
+Las funciones pueden ser llamadas desde cualquier parte del programa donde se necesite
+realizar una tarea específica, lo que promueve la modularidad y la eficiencia del código.
